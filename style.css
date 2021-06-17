@@ -1,0 +1,164 @@
+
+.header{
+    width: 95%;
+    height: 146px;
+    background: #5B9DC2;
+box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+}
+
+.header p{
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 21px;
+    color: #FFFFFF;
+    margin-left: 10px;
+
+}
+
+.icon{
+    height: 15.17px;
+    width: 15.58px;
+    color: #FFFFFF;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+.section1 input{
+    background: #FFFCFC;
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+width: 294px;
+height: 36px;
+margin-top: -32px;
+margin-left: 18px;
+
+}
+
+.section1 i{
+    margin-left: -290px;
+    color:  #676F74;
+opacity: 0.7;
+
+}
+
+.section1 img{
+    float: right;
+    margin-right: 25px;
+
+}
+
+.section2 p{
+    font-family: DM Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+opacity: 0.8;
+}
+
+.categories{
+    display: flex;
+    justify-items: flex-end; 
+    
+    
+}
+
+.categories2{
+    display: flex;
+    justify-items: flex-end;
+    
+    
+}
+
+.categories3{
+    display: flex;
+    justify-items: flex-end;
+    
+    
+}
+
+.box1, .box2, .box3, .box4, .box5, .box6, .box7, .box8, .box9{
+    height: 72px;
+    width: 70px;
+    background: #F5F5F5;
+    border-radius: 6px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.categories img{
+    margin-top: 10px;
+}
+
+.categories2 img{
+    margin-top: 10px;
+}
+
+.categories3 img{
+    margin-top: 12px;
+    margin-left: 14px;
+}
+
+.categories p{
+    font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 13px;
+opacity: 0.8;
+width: 85px;
+height: 13px;
+}
+
+.categories2 p{
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 13px;
+    opacity: 0.8;
+    width: 85px;
+    height: 13px;
+}
+
+.categories3 p{
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 13px;
+    opacity: 0.8;
+    width: 85px;
+    height: 13px;
+   
+
+}
+
+.footerNav{
+    height: 46px;
+    width: 95%;
+    background: #5B9DC2;
+    opacity: 0.3;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.footerIcon2 {
+ margin-left: 50px;
+ margin-top: 5px;
+}
+
+.footerIcon3 {
+    margin-left: 50px;
+   }
+   
+   .footerIcon4{
+margin-left: 50px;
+   }
+
+   
+   
+
